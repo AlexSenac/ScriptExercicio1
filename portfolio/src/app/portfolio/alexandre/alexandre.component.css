@@ -1,0 +1,45 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title{
+  color: red;
+  text-align: center;
+  margin-top: 20px;
+  background-color: #f3f3f3;
+  font-weight: 600;
+}
+
+.title2{
+  color: #111;
+  padding: 10px;
+  font-size: 20px;
+}
+
+h3{
+  color: #333;
+  padding: 10px;
+  font-size: 18px;
+}
+
+h4{
+  color: #333;
+  padding: 10px;
+  font-size: 16px;
+}
+
+p{
+  padding: 10px;
+  color: #222;
+  font-size: 16px;
+}
+
+.title3{
+  color: #333;
+  padding: 10px;
+  font-size: 16px;
+}
+
